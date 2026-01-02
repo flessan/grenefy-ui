@@ -7,7 +7,7 @@ const GettingStarted = () => {
       <h1 className="font-bold capitalize text-4xl mb-12"> Getting Started</h1>
       <section className="mb-12">
         <h2 className="text-2xl mb-6">
-          Get ready to revolutionize your web design with Neo-Brutalism UI
+          Get ready to revolutionize your web design with Grenefy UI
           library, the amazing solution for creating stunning webpages. Here's
           why you'll love it!
         </h2>
@@ -26,7 +26,7 @@ const GettingStarted = () => {
             <p className="ml-2 -mt-1.5 align-top">
               <strong>Powered by Tailwind CSS:</strong> Harness the power of
               Tailwind CSS, the industry-leading framework for rapid UI
-              development. Seamlessly integrate Neo-Brutalism components with
+              development. Seamlessly integrate Grenefy components with
               your project and enjoy the flexibility and efficiency it brings.
               <p>
                 <strong>Note:</strong> This library is intended to be used with
@@ -46,7 +46,7 @@ const GettingStarted = () => {
             <Checkbox />
             <p className="ml-2  -mt-1.5 align-top">
               <strong>Completely Free:</strong> Yes, you read that right!
-              Neo-Brutalism UI library is absolutely free. Enhance your webpages
+              Grenefy UI library is absolutely free. Enhance your webpages
               with stunning designs without spending a dime. Unlock your
               creativity and create impactful websites without breaking your
               budget.
@@ -66,7 +66,7 @@ const GettingStarted = () => {
             <strong>Note:</strong> If you are a React user, I highly recommend
             cloning{" "}
             <a
-              href="https://github.com/marieooq/neo-brutalism-ui-library"
+              href="https://github.com/flessan/grenerfy-ui"
               target="_blank"
               className="underline font-bold "
             >
@@ -75,7 +75,7 @@ const GettingStarted = () => {
             and running Storybook. The instructions for how it works are
             described in{" "}
             <a
-              href="https://github.com/marieooq/neo-brutalism-ui-library"
+              href="https://github.com/flessan/grenerfy-ui"
               target="_blank"
               className="underline font-bold "
             >

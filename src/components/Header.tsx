@@ -26,7 +26,7 @@ const Header = () => {
             </li>
             <li className="inline-block p-2 cursor-pointer">
               <a
-                href="https://github.com/marieooq/neo-brutalism-ui-library"
+                href="https://github.com/flessan/grenerfy-ui"
                 target="_blank"
               >
                 <img src={githubIcon} alt="github" className="w-6 h-6" />
@@ -93,7 +93,7 @@ const Header = () => {
               <div className="pb-4">
                 <li className="inline-block cursor-pointer">
                   <a
-                    href="https://github.com/marieooq/neo-brutalism-ui-library"
+                    href="https://github.com/flessan/grenerfy-ui"
                     target="_blank"
                   >
                     <img src={githubIcon} alt="github" className="w-6 h-6" />

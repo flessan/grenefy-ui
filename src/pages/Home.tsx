@@ -18,7 +18,7 @@ const Home = () => {
           <div className="px-5 md:px-40 flex flex-col md:flex-row items-center md:items-end gap-8 md:gap-12">
             <div className="mt-32 md:mt-10">
               <h1 className="text-7xl md:text-8xl font-black md:pt-14 tracking-tight hero-font mb-5">
-                Neo-Brutalism UI
+                Grenefy UI
               </h1>
               <p className="text-2xl md:text-3xl hero-font">
                 Neobrutalism is high contrast, bright colors, and bold shapes
@@ -108,7 +108,7 @@ const Home = () => {
                 title="Interested in viewing the code?"
                 description="Get ready for an in-depth exploration of the components in action within the codebase. Let's dive deep into how these components work behind the scenes!"
                 callToActionText="Go to Github Repository"
-                calllToActionLink="https://github.com/marieooq/neo-brutalism-ui-library"
+                calllToActionLink="https://github.com/flessan/grenerfy-ui"
               />
             </div>
           </div>

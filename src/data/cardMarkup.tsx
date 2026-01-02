@@ -5,7 +5,7 @@ const cardMarkup = (): string => {
       <article class="w-full h-full">
          <figure class="w-full h-1/2 border-black border-b-2">
             <img
-               src="https://neo-brutalism-ui-library.vercel.app/assets/neo-brutalism-image3-6c6a875b.jpg"
+               src="https://grenefy-ui.vercel.app/assets/neo-brutalism-image3-6c6a875b.jpg"
                alt="thumbnail"
                class="w-full h-full object-cover"
                />

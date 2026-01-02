@@ -1,6 +1,6 @@
-# Neo-Brutalism UI Library
+# Grenefy UI Library
 
-[Neo-brutalism UI](https://neo-brutalism-ui-library.vercel.app/) is a collection of [React](https://react.dev/) and [Tailwind CSS-based](https://tailwindcss.com/) components that embody a design approach characterized by bold, high-contrast elements and vibrant colors. It offers a unique and eye-catching aesthetic for webpages.
+[Neo-brutalism UI](https://grenefy-ui.vercel.app/) is a collection of [React](https://react.dev/) and [Tailwind CSS-based](https://tailwindcss.com/) components that embody a design approach characterized by bold, high-contrast elements and vibrant colors. It offers a unique and eye-catching aesthetic for webpages.
 
 ## Demo screen recording
 
@@ -26,9 +26,9 @@
 3. Feel free to copy the code of the components to your project! All the components can be found in [./src/components folder](./src/components/).
 4. If you also want to run the app, run `yarn run dev` at the root of the directory.
 
-## 2. Easier way: Visit the Neo-Brutalism UI website
+## 2. Easier way: Visit the Grenefy UI website
 
-1. Visit [Neo-Brutalism UI website](https://neo-brutalism-ui-library.vercel.app/), and navigate to the [components page](https://neo-brutalism-ui-library.vercel.app/components/card).
+1. Visit [Grenefy UI website](https://grenefy-ui.vercel.app/), and navigate to the [components page](https://grenefy-ui.vercel.app/components/card).
 2. Simply copy and paste the code snippet by clicking "Copy to clipboard" button.
 3. To see it in action, access [the playground in StackBlitz](https://stackblitz.com/edit/tailwindcss-a14rd1?file=index.html)and paste your code there. [Demo screen recording](#demo-screen-recording) might help for you to figure out how it works.
 
@@ -95,5 +95,5 @@ The MIT License
 
 # Acknowledgement
 
-This project is inspired by [Neo-Brutalism UI Kit](https://www.figma.com/community/file/1209478811951634271).
+This project is inspired by [Grenefy UI Kit](https://www.figma.com/community/file/1209478811951634271).
 Huge thanks to [Muhamad Digdaya](https://www.figma.com/@muhamaddigdaya)!!:star_struck:

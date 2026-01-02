@@ -76,7 +76,7 @@ const Component = () => {
           <div className="flex justify-end items-center mb-3 space-x-4">
             <div className="block cursor-pointer">
               <a
-                href={`https://github.com/marieooq/neo-brutalism-ui-library/blob/main/src/components/${displayingComponent.name}.tsx`}
+                href={`https://github.com/flessan/grenerfy-ui/blob/main/src/components/${displayingComponent.name}.tsx`}
                 target="_blank"
               >
                 <IconButton icon={githubIcon} color="yellow" />
